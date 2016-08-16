@@ -2,7 +2,8 @@
 This is the code for the paper entitled "CoCMA: Energy-Efficient Coverage Control in Cluster-Based Wireless Sensor Networks Using a Memetic Algorithm"
 
 # Abstract: #
-Deployment of wireless sensor networks (WSNs) has drawn much attention in recent years. Given the limited energy for sensor nodes, it is critical to implement WSNs with energy efficiency designs. Sensing coverage in networks, on the other hand, may degrade gradually over time after WSNs are activated. For mission-critical applications, therefore, energy-efficient coverage control should be taken into consideration to support the quality of service (QoS) of WSNs. Usually, coverage-controlling strategies present some challenging problems: ＜/br＞
+Deployment of wireless sensor networks (WSNs) has drawn much attention in recent years. Given the limited energy for sensor nodes, it is critical to implement WSNs with energy efficiency designs. Sensing coverage in networks, on the other hand, may degrade gradually over time after WSNs are activated. For mission-critical applications, therefore, energy-efficient coverage control should be taken into consideration to support the quality of service (QoS) of WSNs. Usually, coverage-controlling strategies present some challenging problems:  
+
 1. resolving the conflicts while determining which nodes should be turned off to conserve energy; 
 2. designing an optimal wake-up scheme that avoids awakening more nodes than necessary. 
 
